@@ -9,7 +9,8 @@
 		<outline text="Aptos-core" title="Aptos-core" description="" type="rss" version="RSS" htmlUrl="https://github.com/aptos-labs/aptos-core/releases" xmlUrl="https://github.com/aptos-labs/aptos-core/releases.atom"/>
 		<outline text="Arbitrum" title="Arbitrum" description="" type="rss" version="RSS" htmlUrl="https://github.com/OffchainLabs/arbitrum/releases" xmlUrl="https://github.com/OffchainLabs/arbitrum/releases.atom"/>
 		<outline text="Argent-contracts" title="Argent-contracts" description="" type="rss" version="RSS" htmlUrl="https://github.com/argentlabs/argent-contracts/releases" xmlUrl="https://github.com/argentlabs/argent-contracts/releases.atom"/>
-		<outline text="Argent-x" title="Argent-x" description="" type="rss" version="RSS" htmlUrl="https://github.com/argentlabs/argent-x/releases" xmlUrl="https://github.com/argentlabs/argent-x/releases.atom"/>
+		<outline text="Arbitrum" title="Arbitrum" description="" type="rss" version="RSS" htmlUrl="https://github.com/OffchainLabs/arbitrum/releases" xmlUrl="https://github.com/OffchainLabs/arbitrum/releases.atom"/>
+	        <outline text="Argent-x" title="Argent-x" description="" type="rss" version="RSS" htmlUrl="https://github.com/argentlabs/argent-x/releases" xmlUrl="https://github.com/argentlabs/argent-x/releases.atom"/>
 		<outline text="Arweave" title="Arweave" description="" type="rss" version="RSS" htmlUrl="https://github.com/ArweaveTeam/arweave/releases" xmlUrl="https://github.com/ArweaveTeam/arweave/releases.atom"/>
 		<outline text="Bitcoin" title="Bitcoin" description="" type="rss" version="RSS" htmlUrl="https://github.com/bitcoin/bitcoin/releases" xmlUrl="https://github.com/bitcoin/bitcoin/releases.atom"/>
 		<outline text="Celestia-core" title="Celestia-core" description="" type="rss" version="RSS" htmlUrl="https://github.com/celestiaorg/celestia-core/releases" xmlUrl="https://github.com/celestiaorg/celestia-core/releases.atom"/>
@@ -22,10 +23,12 @@
 		<outline text="Metamask-mobile" title="Metamask-mobile" description="" type="rss" version="RSS" htmlUrl="https://github.com/MetaMask/metamask-mobile/releases" xmlUrl="https://github.com/MetaMask/metamask-mobile/releases.atom"/>
 		<outline text="Oasis-core" title="Oasis-core" description="" type="rss" version="RSS" htmlUrl="https://github.com/oasisprotocol/oasis-core/releases" xmlUrl="https://github.com/oasisprotocol/oasis-core/releases.atom"/>
 		<outline text="Polygon Hermez Contracts" title="Polygon Hermez Contracts" description="" type="rss" version="RSS" htmlUrl="https://github.com/hermeznetwork/contracts/releases" xmlUrl="https://github.com/hermeznetwork/contracts/releases.atom"/>
-		<outline text="StarkEx-contracts" title="StarkEx-contracts" description="" type="rss" version="RSS" htmlUrl="https://github.com/starkware-libs/starkex-contracts/releases" xmlUrl="https://github.com/starkware-libs/starkex-contracts/releases.atom"/>
+		<outline text="Solana" title="Solana" description="" type="rss" version="RSS" htmlUrl="https://github.com/solana-labs/solana/releases" xmlUrl="https://github.com/solana-labs/solana/releases.atom"/>
+	        <outline text="StarkEx-contracts" title="StarkEx-contracts" description="" type="rss" version="RSS" htmlUrl="https://github.com/starkware-libs/starkex-contracts/releases" xmlUrl="https://github.com/starkware-libs/starkex-contracts/releases.atom"/>
 		<outline text="Synthetix" title="Synthetix" description="" type="rss" version="RSS" htmlUrl="https://github.com/Synthetixio/synthetix/releases" xmlUrl="https://github.com/Synthetixio/synthetix/releases.atom"/>
 		<outline text="zkEVM-circuits" title="zkEVM-circuits" description="" type="rss" version="RSS" htmlUrl="https://github.com/appliedzkp/zkevm-circuits/releases" xmlUrl="https://github.com/appliedzkp/zkevm-circuits/releases.atom"/>
 		<outline text="zkSync" title="zkSync" description="" type="rss" version="RSS" htmlUrl="https://github.com/matter-labs/zksync/releases" xmlUrl="https://github.com/matter-labs/zksync/releases.atom"/>
+	        
 	</outline>
   </body>
 </opml>
