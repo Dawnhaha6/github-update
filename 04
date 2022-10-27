@@ -16,8 +16,10 @@
 		<outline text="Bitcoin" title="Bitcoin" description="" type="rss" version="RSS" htmlUrl="https://github.com/bitcoin/bitcoin/releases" xmlUrl="https://github.com/bitcoin/bitcoin/releases.atom"/>
 		<outline text="Celestia-core" title="Celestia-core" description="" type="rss" version="RSS" htmlUrl="https://github.com/celestiaorg/celestia-core/releases" xmlUrl="https://github.com/celestiaorg/celestia-core/releases.atom"/>
 		<outline text="chainlink" title="chainlink" description="" type="rss" version="RSS" htmlUrl="https://github.com/smartcontractkit/chainlink/releases" xmlUrl=https://github.com/smartcontractkit/chainlink/releases.atom"/>
-	        <outline text="Compound" title="Compound" description="" type="rss" version="RSS" htmlUrl="https://github.com/compound-finance/compound-protocol/releases" xmlUrl="https://github.com/compound-finance/compound-protocol/releases.atom"/>
+	        <outline text="coin98" title="coin98" description="" type="rss" version="RSS" htmlUrl="https://github.com/coin98/coin98-vault/releases" xmlUrl="https://github.com/coin98/coin98-vault/releases.atom"/>
+		<outline text="Compound" title="Compound" description="" type="rss" version="RSS" htmlUrl="https://github.com/compound-finance/compound-protocol/releases" xmlUrl="https://github.com/compound-finance/compound-protocol/releases.atom"/>
 		<outline text="Cosmos-sdk" title="Cosmos-sdk" description="" type="rss" version="RSS" htmlUrl="https://github.com/cosmos/cosmos-sdk/releases" xmlUrl="https://github.com/cosmos/cosmos-sdk/releases.atom"/>
+		<outline text="Flow" title="Flow" description="" type="rss" version="RSS" htmlUrl="https://github.com/onflow/flow/releases" xmlUrl="https://github.com/onflow/flow/releases.atom"/>
 		<outline text="go-ethereum" title="go-ethereum" description="" type="rss" version="RSS" htmlUrl="https://github.com/ethereum/go-ethereum/releases" xmlUrl="https://github.com/ethereum/go-ethereum/releases.atom"/>
 		<outline text="go-ipfs" title="go-ipfs" description="" type="rss" version="RSS" htmlUrl="https://github.com/ipfs/go-ipfs/releases" xmlUrl="https://github.com/ipfs/go-ipfs/releases.atom"/>
 		<outline text="The Graph" title="The Graph" description="" type="rss" version="RSS" htmlUrl="https://github.com/graphprotocol/graph-node/releases" xmlUrl="https://github.com/ipfs/go-ipfs/releases.atom"/>
@@ -29,11 +31,13 @@
 		<outline text="Metamask-mobile" title="Metamask-mobile" description="" type="rss" version="RSS" htmlUrl="https://github.com/MetaMask/metamask-mobile/releases" xmlUrl="https://github.com/MetaMask/metamask-mobile/releases.atom"/>
 		<outline text="NEAR Protocol" title="NEAR Protocol" description="" type="rss" version="RSS" htmlUrl="https://github.com/near/nearcore/releases" xmlUrl="https://github.com/near/nearcore/releases.atom"/>
 		<outline text="Oasis-core" title="Oasis-core" description="" type="rss" version="RSS" htmlUrl="https://github.com/oasisprotocol/oasis-core/releases" xmlUrl="https://github.com/oasisprotocol/oasis-core/releases.atom"/>
+		<outline text="Optimism" title="Optimism" description="" type="rss" version="RSS" htmlUrl="https://github.com/ethereum-optimism/optimism/releases" xmlUrl="https://github.com/ethereum-optimism/optimism/releases.atom"/>
 		<outline text="Polygon Hermez Contracts" title="Polygon Hermez Contracts" description="" type="rss" version="RSS" htmlUrl="https://github.com/hermeznetwork/contracts/releases" xmlUrl="https://github.com/hermeznetwork/contracts/releases.atom"/>
 		<outline text="Ronin" title="Ronin" description="" type="rss" version="RSS" htmlUrl="https://https://github.com/ronin-rb/ronin/releases" xmlUrl="https://https://github.com/ronin-rb/ronin/releases.atom"/>
 		<outline text="Solana" title="Solana="" type="rss" version="RSS" htmlUrl="https://github.com/solana-labs/solana/releases" xmlUrl="https://github.com/solana-labs/solana/releases .atom"/>
 	        <outline text="StarkEx-contracts" title="StarkEx-contracts" description="" type="rss" version="RSS" htmlUrl="https://github.com/starkware-libs/starkex-contracts/releases" xmlUrl="https://github.com/starkware-libs/starkex-contracts/releases.atom"/>
-		<outline text="Synthetix" title="Synthetix" description="" type="rss" version="RSS" htmlUrl="https://github.com/Synthetixio/synthetix/releases" xmlUrl="https://github.com/Synthetixio/synthetix/releases.atom"/>
+		<outline text="SushiSwap" title="SushiSwap" description="" type="rss" version="RSS" htmlUrl="https://github.com/sushiswap/sushiswap/releases" xmlUrl="https://github.com/sushiswap/sushiswap/releases.atom"/>
+	        <outline text="Synthetix" title="Synthetix" description="" type="rss" version="RSS" htmlUrl="https://github.com/Synthetixio/synthetix/releases" xmlUrl="https://github.com/Synthetixio/synthetix/releases.atom"/>
 		<outline text="zkEVM-circuits" title="zkEVM-circuits" description="" type="rss" version="RSS" htmlUrl="https://github.com/appliedzkp/zkevm-circuits/releases" xmlUrl="https://github.com/appliedzkp/zkevm-circuits/releases.atom"/>
 		<outline text="zkSync" title="zkSync" description="" type="rss" version="RSS" htmlUrl="https://github.com/matter-labs/zksync/releases" xmlUrl="https://github.com/matter-labs/zksync/releases.atom"/>
 	        
