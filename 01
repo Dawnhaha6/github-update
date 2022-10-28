@@ -45,17 +45,20 @@
 		<outline text="Lido DAO" title="Lido DAO" description="" type="rss" version="RSS" htmlUrl="https://blog.lido.fi/" xmlUrl="https://blog.lido.fi/feed"/>
 		<outline text="Illuvium" title="Illuvium" description="" type="rss" version="RSS" htmlUrl="https://illuvium.medium.com/" xmlUrl="https://illuvium.medium.com/feed"/>
 		<outline text="NEAR Protocol" title="NEAR Protocol="" type="rss" version="RSS" htmlUrl="https://medium.com/nearprotocol" xmlUrl="https://medium.com/feed/nearprotocol"/>
+		<outline text="Oasis Network" title="Oasis Network" description="" type="rss" version="RSS" htmlUrl="https://medium.com/oasis-protocol-project" xmlUrl="https://rabbithole.mirror.xyz/feed/atom"/>
 		<outline text="RabbitHole" title="RabbitHole" description="" type="rss" version="RSS" htmlUrl="https://rabbithole.mirror.xyz/" xmlUrl="https://rabbithole.mirror.xyz/feed/atom"/>
 		<outline text="Ronin" title="Ronin" description="" type="rss" version="RSS" htmlUrl="https://roninblockchain.substack.com/" xmlUrl="https://roninblockchain.substack.com/feed"/>
 		<outline text="Snapshot Labs" title="Snapshot Labs" description="" type="rss" version="RSS" htmlUrl="https://snapshot.mirror.xyz/" xmlUrl="https://snapshot.mirror.xyz/feed/atom"/>
 		<outline text="Solana" title="Solana" description="" type="rss" version="RSS" htmlUrl="https://medium.com/solana-labs" xmlUrl="https://medium.com/feed/solana-labs"/>
 		<outline text="Stargate Finance" title="Stargate Finance" description="" type="rss" version="RSS" htmlUrl="https://medium.com/stargate-official" xmlUrl="https://medium.com/feed/stargate-official"/>
 		<outline text="Strips Finance" title="Strips Finance" description="" type="rss" version="RSS" htmlUrl="https://strips-finance.medium.com/" xmlUrl="https://strips-finance.medium.com/feed/"/>
+		<outline text="ssv.network" title="ssv.network" description="" type="rss" version="RSS" htmlUrl="https://blog.ssv.network/" xmlUrl="https://blog.ssv.network/feed"/>
 		<outline text="Sushi - Medium" title="Sushi - Medium" description="" type="rss" version="RSS" htmlUrl="https://medium.com/sushiswap-org?source=rss----253ae1eaeb9e---4" xmlUrl="https://medium.com/feed/sushiswap-org"/>
 		<outline text="Synthetix Blog" title="Synthetix Blog" description="" type="rss" version="RSS" htmlUrl="https://blog.synthetix.io/" xmlUrl="https://blog.synthetix.io/rss/"/>
 		<outline text="The Graph" title="The Graph" description="" type="rss" version="RSS" htmlUrl="https://thegraph.com/blog/" xmlUrl="https://thegraph.com/blog/feed/index.xml"/>
 		<outline text="The Optimism Collective" title="The Optimism Collective" description="" type="rss" version="RSS" htmlUrl="https://optimism.mirror.xyz/" xmlUrl="https://optimism.mirror.xyz/feed/atom"/>
 		<outline text="The Sandbox" title="The Sandbox" description="" type="rss" version="RSS" htmlUrl="https://medium.com/sandbox-game" xmlUrl="https://medium.com/feed/sandbox-game"/>
+		<outline text="Tokemak" title="Tokemak" description="" type="rss" version="RSS" htmlUrl="https://medium.com/tokemak" xmlUrl="https://medium.com/feed/tokemak"/>
 		<outline text="UMA Project - Medium" title="UMA Project - Medium" description="" type="rss" version="RSS" htmlUrl="https://medium.com/uma-project?source=rss----e0a14dc9da94---4" xmlUrl="https://medium.com/feed/uma-project"/>
 	</outline>
   </body>
