@@ -59,7 +59,7 @@
 		<outline text="Perpetual Protocol" title="Perpetual Protocol" description="" type="rss" version="RSS" htmlUrl=https://perpetualprotocol.medium.com/" xmlUrl="https://perpetualprotocol.medium.com/feed"/>
 		<outline text="Polygon" title="Polygon" description="" type="rss" version="RSS" htmlUrl="https://blog.polygon.technology/" xmlUrl="https://blog.polygon.technology/feed"/>
 		<outline text="RabbitHole" title="RabbitHole" description="" type="rss" version="RSS" htmlUrl="https://rabbithole.mirror.xyz/" xmlUrl="https://rabbithole.mirror.xyz/feed/atom"/>
-		<outline text="Ronin" title="Ronin" description="" type="rss" version="RSS" htmlUrl="https://roninblockchain.substack.com/" xmlUrl="https://roninblockchain.substack.com/feed"/>
+		<outline text="Ronin" title="Ronin" description="" type="rss" version="RSS" htmlUrl="https://medium.com/tag/ronin" xmlUrl="https://medium.com/feed/tag/roninfeed"/>
 		<outline text="Snapshot Labs" title="Snapshot Labs" description="" type="rss" version="RSS" htmlUrl="https://snapshot.mirror.xyz/" xmlUrl="https://snapshot.mirror.xyz/feed/atom"/>
 		<outline text="Solana" title="Solana" description="" type="rss" version="RSS" htmlUrl="https://medium.com/solana-labs" xmlUrl="https://medium.com/feed/solana-labs"/>
 		<outline text="Stargate Finance" title="Stargate Finance" description="" type="rss" version="RSS" htmlUrl="https://medium.com/stargate-official" xmlUrl="https://medium.com/feed/stargate-official"/>
