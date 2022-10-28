@@ -12,12 +12,16 @@
 		<outline text="Aave" title="Aave" description="" type="rss" version="RSS" htmlUrl="https://aave.mirror.xyz/" xmlUrl="https://aave.mirror.xyz/feed/atom"/>
 		<outline text="Aave Blog - Medium" title="Aave Blog - Medium" description="" type="rss" version="RSS" htmlUrl="https://medium.com/aave?source=rss----b4ab878e405---4" xmlUrl="https://medium.com/feed/aave"/>
 		<outline text="ApeCoin" title="ApeCoin" description="" type="rss" version="RSS" htmlUrl="https://go-apecoin.medium.com/" xmlUrl="https://go-apecoin.medium.com/feed"/>
+		<outline text="API3" title="API3" description="" type="rss" version="RSS" htmlUrl="https://medium.com/api3/api3-decentralized-apis-for-the-decentralized-web-d711f47190ac" xmlUrl="https://medium.com/feed/api3"/>
 		<outline text="Audius" title="Audius - Medium" description="" type="rss" version="RSS" htmlUrl="https://audiusproject.medium.com/" xmlUrl="https://audiusproject.medium.com/feed"/>
 		<outline text="Avalanche" title="Avalanche" description="" type="rss" version="RSS" htmlUrl="https://medium.com/avalancheavax" xmlUrl="https://medium.com/feed/avalancheavax"/>
+		<outline text="Arweave" title="Arweave" description="" type="rss" version="RSS" htmlUrl="https://arweave.medium.com/" xmlUrl="https://arweave.medium.com/feed"/>
 		<outline text="Axie Infinity" title="Axie Infinity" description="" type="rss" version="RSS" htmlUrl="https://axieinfinity.medium.com/" xmlUrl="https://axieinfinity.medium.com/feed"/>
+		<outline text="Axelar" title="Axelar" description="" type="rss" version="RSS" htmlUrl="https://medium.com/axelar" xmlUrl="https://medium.com/feed/axelar"/>
 		<outline text="Aztec Network - Medium" title="Aztec Network - Medium" description="" type="rss" version="RSS" htmlUrl="https://medium.com/aztec-protocol?source=rss----f75d14c7bf64---4" xmlUrl="https://medium.com/feed/aztec-protocol"/>
 		<outline text="Bitcoin Core releases" title="Bitcoin Core releases" description="" type="rss" version="RSS" htmlUrl="https://bitcoin.org/en/version-history" xmlUrl="https://bitcoin.org/en/rss/releases.rss"/>
 		<outline text="C2X" title="C2X" description="" type="rss" version="RSS" htmlUrl="https://c2x.medium.com/" xmlUrl="https://c2x.medium.com/feed"/>
+		<outline text="Coin98" title="Coin98" description="" type="rss" version="RSS" htmlUrl="https://blog.coin98.com/" xmlUrl="https://blog.coin98.com/feed"/>
 		<outline text="CEEK VR" title="CEEK VR" description="" type="rss" version="RSS" htmlUrl="https://ceek.medium.com/" xmlUrl="https://ceek.medium.com/feed"/>
 		<outline text="Celestia Blog" title="Celestia Blog" description="" type="rss" version="RSS" htmlUrl="https://blog.celestia.org/" xmlUrl="https://blog.celestia.org/rss/"/>
 		<outline text="ChainFeeds" title="ChainFeeds" description="" type="rss" version="RSS" htmlUrl="https://mirror.xyz/chainfeeds.eth/" xmlUrl="http://mirror.xyz/chainfeeds.eth/feed/atom"/>
@@ -30,11 +34,16 @@
 		<outline text="Curve DAO Token" title="Curve DAO Token" description="" type="rss" version="RSS" htmlUrl="https://medium.com/tag/curve-dao" xmlUrl="https://medium.com/feed/tag/curve-dao"/>
 		<outline text="Decentraland" title="Decentraland" description="" type="rss" version="RSS" htmlUrl="https://decentraland.org/blog/" xmlUrl="https://decentraland.org/blog/feed.xml"/>
 		<outline text="DFINITY on Medium" title="DFINITY on Medium" description="" type="rss" version="RSS" htmlUrl="https://medium.com/@dfinity?source=rss-f46cd59473d8------2" xmlUrl="https://medium.com/feed/@dfinity"/>
+		<outline text="dYdX - The Integral" title="dYdX " description="" type="rss" version="RSS" htmlUrl="https://dydx.exchange/blog" xmlUrl="https://dydx.exchange/blog/">
 		<outline text="dYdX - The Integral" title="dYdX - The Integral" description="" type="rss" version="RSS" htmlUrl="https://integral.dydx.exchange/" xmlUrl="https://integral.dydx.exchange/rss/"/>
 		<outline text="ENS" title="ENS" description="" type="rss" version="RSS" htmlUrl="https://ens.mirror.xyz/" xmlUrl="https://ens.mirror.xyz/feed/atom"/>
+		<outline text="Ethereum Name Service" title="Ethereum Name Service" description="" type="rss" version="RSS" htmlUrl="https://ens.mirror.xyz/" xmlUrl="https://ens.mirror.xyz/feed/atom"/>
 		<outline text="Ethereum Blog" title="Ethereum Blog" description="" type="rss" version="RSS" htmlUrl="https://blog.ethereum.org/" xmlUrl="https://blog.ethereum.org/feed.xml"/>
 		<outline text="Filecoin" title="Filecoin" description="" type="rss" version="RSS" htmlUrl="https://filecoin.io/zh-cn/blog/" xmlUrl="https://filecoin.io/zh-cn/blog/feed/index.xml"/>
+		<outline text="Flow" title="Flow" description="" type="rss" version="RSS" htmlUrl="https://medium.com/dapperlabs" xmlUrl="https://medium.com/feed/dapperlabs"/>
 		<outline text="Gala" title="Gala" description="" type="rss" version="RSS" htmlUrl="https://blog.gala.games/" xmlUrl="https://blog.gala.games/feed"/>
+		<outline text="Galxe" title="Galxe" description="" type="rss" version="RSS" htmlUrl="https://blog.galxe.com/" xmlUrl="https://blog.galxe.com/feed"/>
+		<outline text="GMX" title="GMX" description="" type="rss" version="RSS" htmlUrl="https://medium.com/@gmx.io" xmlUrl="https://medium.com/feed/@gmx.io"/>
 		<outline text="Hermez | Blog" title="Hermez | Blog" description="" type="rss" version="RSS" htmlUrl="https://blog.hermez.io/" xmlUrl="https://blog.hermez.io/feed"/>
 		<outline text="Illuvium on Medium" title="Illuvium on Medium" description="" type="rss" version="RSS" htmlUrl="https://medium.com/@illuvium?source=rss-1c2a2f798ba2------2" xmlUrl="https://medium.com/feed/@illuvium"/>
 		<outline text="ImmutableX" title="ImmutableX" description="" type="rss" version="RSS" htmlUrl="https://www.immutable.com/blog" xmlUrl="https://www.immutable.com/blog/rssd"/>
@@ -45,7 +54,10 @@
 		<outline text="Lido DAO" title="Lido DAO" description="" type="rss" version="RSS" htmlUrl="https://blog.lido.fi/" xmlUrl="https://blog.lido.fi/feed"/>
 		<outline text="Illuvium" title="Illuvium" description="" type="rss" version="RSS" htmlUrl="https://illuvium.medium.com/" xmlUrl="https://illuvium.medium.com/feed"/>
 		<outline text="NEAR Protocol" title="NEAR Protocol="" type="rss" version="RSS" htmlUrl="https://medium.com/nearprotocol" xmlUrl="https://medium.com/feed/nearprotocol"/>
-		<outline text="Oasis Network" title="Oasis Network" description="" type="rss" version="RSS" htmlUrl="https://medium.com/oasis-protocol-project" xmlUrl="https://rabbithole.mirror.xyz/feed/atom"/>
+		<outline text="Oasis Network" title="Oasis Network" description="" type="rss" version="RSS" htmlUrl="https://medium.com/oasis-protocol-project" xmlUrl="https://medium.com/feed/oasis-protocol-project"/>
+		<outline text="Optimism" title="Optimism" description="" type="rss" version="RSS" htmlUrl="https://optimismpbc.medium.com/" xmlUrl="https://optimismpbc.medium.com/feed"/>
+		<outline text="Perpetual Protocol" title="Perpetual Protocol" description="" type="rss" version="RSS" htmlUrl=https://perpetualprotocol.medium.com/" xmlUrl="https://perpetualprotocol.medium.com/feed"/>
+		<outline text="Polygon" title="Polygon" description="" type="rss" version="RSS" htmlUrl="https://blog.polygon.technology/" xmlUrl="https://blog.polygon.technology/feed"/>
 		<outline text="RabbitHole" title="RabbitHole" description="" type="rss" version="RSS" htmlUrl="https://rabbithole.mirror.xyz/" xmlUrl="https://rabbithole.mirror.xyz/feed/atom"/>
 		<outline text="Ronin" title="Ronin" description="" type="rss" version="RSS" htmlUrl="https://roninblockchain.substack.com/" xmlUrl="https://roninblockchain.substack.com/feed"/>
 		<outline text="Snapshot Labs" title="Snapshot Labs" description="" type="rss" version="RSS" htmlUrl="https://snapshot.mirror.xyz/" xmlUrl="https://snapshot.mirror.xyz/feed/atom"/>
@@ -53,13 +65,14 @@
 		<outline text="Stargate Finance" title="Stargate Finance" description="" type="rss" version="RSS" htmlUrl="https://medium.com/stargate-official" xmlUrl="https://medium.com/feed/stargate-official"/>
 		<outline text="Strips Finance" title="Strips Finance" description="" type="rss" version="RSS" htmlUrl="https://strips-finance.medium.com/" xmlUrl="https://strips-finance.medium.com/feed/"/>
 		<outline text="ssv.network" title="ssv.network" description="" type="rss" version="RSS" htmlUrl="https://blog.ssv.network/" xmlUrl="https://blog.ssv.network/feed"/>
+		<outline text="SushiSwap" title="SushiSwap" description="" type="rss" version="RSS" htmlUrl="https://sushichef.medium.com/the-sushiswap-project-dd6eb80c6ba2" xmlUrl="https://sushichef.medium.com/feed"/>
 		<outline text="Sushi - Medium" title="Sushi - Medium" description="" type="rss" version="RSS" htmlUrl="https://medium.com/sushiswap-org?source=rss----253ae1eaeb9e---4" xmlUrl="https://medium.com/feed/sushiswap-org"/>
-		<outline text="Synthetix Blog" title="Synthetix Blog" description="" type="rss" version="RSS" htmlUrl="https://blog.synthetix.io/" xmlUrl="https://blog.synthetix.io/rss/"/>
+		<outline text="Synthetix" title="Synthetix" description="" type="rss" version="RSS" htmlUrl="https://synthetix.io/" xmlUrl="https://blog.synthetix.io/rss"/>
 		<outline text="The Graph" title="The Graph" description="" type="rss" version="RSS" htmlUrl="https://thegraph.com/blog/" xmlUrl="https://thegraph.com/blog/feed/index.xml"/>
 		<outline text="The Optimism Collective" title="The Optimism Collective" description="" type="rss" version="RSS" htmlUrl="https://optimism.mirror.xyz/" xmlUrl="https://optimism.mirror.xyz/feed/atom"/>
 		<outline text="The Sandbox" title="The Sandbox" description="" type="rss" version="RSS" htmlUrl="https://medium.com/sandbox-game" xmlUrl="https://medium.com/feed/sandbox-game"/>
 		<outline text="Tokemak" title="Tokemak" description="" type="rss" version="RSS" htmlUrl="https://medium.com/tokemak" xmlUrl="https://medium.com/feed/tokemak"/>
-		<outline text="UMA Project - Medium" title="UMA Project - Medium" description="" type="rss" version="RSS" htmlUrl="https://medium.com/uma-project?source=rss----e0a14dc9da94---4" xmlUrl="https://medium.com/feed/uma-project"/>
+		<outline text="UMA" title="UMA" description="" type="rss" version="RSS" htmlUrl="https://medium.com/uma-project" xmlUrl="https://medium.com/feed/uma-project"/>
 	</outline>
   </body>
 </opml>
